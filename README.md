@@ -1,5 +1,3 @@
-Here's a README file for the Alzheimer's Disease Classification notebook:
-
 ## Alzheimer's Disease Classification using Deep Learning
 
 This notebook demonstrates the use of various deep learning models to classify Alzheimer's disease stages based on brain MRI images.
