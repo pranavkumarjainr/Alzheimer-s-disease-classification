@@ -1,4 +1,4 @@
-# Alzheimer's Disease Stage Detection using Deep Learning
+# Alzheimer's Disease Detection using Deep Learning
 
 This repository implements a deep learning framework for detecting Alzheimer's disease (AD) stages from MRI scans, focusing on early diagnosis using transfer learning with EfficientNetB0. The system classifies brain images into four clinical categories: nondemented, very mild, mild, and moderate dementia. Built with PyTorch and Flask, the project emphasizes reproducibility, clinical relevance, and seamless deployment.
 
